@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj": {}
+    "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj": {
+    "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\6631\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\obj\\",
+        "outputPath": "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

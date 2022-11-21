@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sWvcvOv9OjcN4AnlJWip933fPiRzJ0bN5OcLBAgXVy9IEPrvbyDc7+1gSoTO7Co4iwsfzID5McGKkw8NN9cdMg==",
+  "dgSpecHash": "SvPWm6O3gs5KuFnEujQ49mDx0YOy1KjkvLs2YE+P09aRWpdl7+kfwGXkibhMPACeG9YVyWHwL3xLDl2+2hgfzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

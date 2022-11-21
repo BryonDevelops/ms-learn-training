@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5jValt/yjytLO6b82VpL45E6hVUcYiV1s+J1GDDFQv+KSRzmAM4R77XbcTq2rEqhHbrjNVwmfGUkWaxBl2Wrcw==",
+  "dgSpecHash": "IdYDnjTkI80tBcn370q3SwlKfxu+UTb6FOVmWhK1t0erzR5ECl+9uKuWfSOosQISzS6GzGGNExbPvdUxkPphQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "c:\\Users\\6631\\_dev\\ms-learn-training\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\6631\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\6631\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

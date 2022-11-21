@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj": {}
+    "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj": {
+    "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\6631\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\obj\\",
+        "outputPath": "c:\\Users\\6631\\_dev\\ms-learn-training\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
